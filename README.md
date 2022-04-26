@@ -1,0 +1,2 @@
+# AnimeScraperBR-PT
+AnimeScraperBR-PT
